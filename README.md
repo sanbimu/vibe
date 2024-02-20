@@ -13,7 +13,7 @@ Welcome to **vibe**, a social media platform dedicated to sharing positive and u
 
 ## See it live
 
-You can click [here](https://vibe.n-vh.me/) to see it live!
+You can click [here](https://vibe.sanbimu.com/) to see it live!
 
 ### Mobile
 
